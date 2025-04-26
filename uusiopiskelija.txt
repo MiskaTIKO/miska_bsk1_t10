@@ -1,0 +1,9 @@
+Tämmä on vain itselle jemmatiedosto postattavaa opiskelijaa varten.
+
+{
+  "studentcode": "N390",
+  "name": "Anneli Ananas",
+  "email": "N390@jamk.fi",
+  "studypoints": 5,
+  "grades": [{ "coursecode": "MBN20004", "grade": 1 }]
+}
